@@ -1,1 +1,4 @@
 dataset
+GoogleNews-vectors-negative300.bin
+cleaned_train_text
+gene_train
